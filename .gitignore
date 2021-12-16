@@ -1,0 +1,11 @@
+packages/
+.vs
+bin
+obj
+*.user
+*.html
+*.txt
+*.xml
+*.feature.cs
+*.suo
+TestResults

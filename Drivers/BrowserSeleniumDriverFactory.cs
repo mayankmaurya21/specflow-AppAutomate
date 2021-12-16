@@ -28,7 +28,7 @@ namespace TestApplication.UiTests.Drivers
             caps.SetCapability("name", _configurationDriver.BaseSessionName + " " + browserId);
             caps.SetCapability("project", _configurationDriver.ProjectName);
             caps.SetCapability("build", _configurationDriver.BuildName);
-            caps.SetCapability("app", "DemoApp");
+            caps.SetCapability("app", "app_url");
             string lowerBrowserId = browserId.ToUpper();
             switch (lowerBrowserId)
             {
