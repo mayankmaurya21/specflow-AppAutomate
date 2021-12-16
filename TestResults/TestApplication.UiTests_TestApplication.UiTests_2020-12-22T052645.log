@@ -1,7 +1,0 @@
-﻿2020-12-22T05:26:44.8071724+00:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
-2020-12-22T05:26:44.8073713+00:00;VSTestExecutionThread;Info;SpecFlow+Runner 3.5.8 in Framework netcore31 in x64 mode execution started
-2020-12-22T05:26:44.8073774+00:00;VSTestExecutionThread;Info;TestAdapter Location: C:\Users\dhruvil\source\repos\TestApplication.UiTests\bin\Debug\netcoreapp3.1\TechTalk.SpecRun.VisualStudio.TestAdapter.dll
-2020-12-22T05:26:44.8111874+00:00;VSTestExecutionThread;Info;Current UserName: 'dhruvil', MachineName: 'EC2AMAZ-0CD87OS'
-2020-12-22T05:26:45.2424148+00:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\Users\dhruvil\source\repos\TestApplication.UiTests\bin\Debug\netcoreapp3.1\TestApplication.UiTests.dll
-2020-12-22T05:26:45.2431136+00:00;VSTestExecutionThread;Info;Output folder configured to "C:\Users\dhruvil\source\repos\TestApplication.UiTests\TestResults" (default)
-2020-12-22T05:26:45.2434317+00:00;VSTestExecutionThread;Info;Profile: TestApplication.UiTests
